@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=chuksota)](https://github.com/chuksota/github-readme-stats)
+[![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=chuksota&show_icons=true&theme=dark)](https://github.com/chuksota/github-readme-stats)
 
 
 <!-- Here are some ideas to get you started:
