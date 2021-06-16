@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Chuks 👋
 [![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=chuksota&show_icons=true&theme=dark)](https://github.com/chuksota/github-readme-stats)
 
 
