@@ -7,8 +7,10 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-  LinkedIn: https://www.linkedin.com/in/chuks-ota-818248127/
-- 📫 How to reach me: chuksota@gmail.com
+  
+- 📫 How to reach me: 
+    * chuksota@gmail.com
+    * LinkedIn: https://www.linkedin.com/in/chuks-ota-818248127/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love musical theater!
 
