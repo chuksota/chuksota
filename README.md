@@ -1,5 +1,5 @@
 ### Hi there, I'm Chuks 👋
-[![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=chuksota&show_icons=true&theme=dark)](https://github.com/chuksota/github-readme-stats)
+[![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=chuksota&show_icons=true&theme=dark&count_private=true)](https://github.com/chuksota/github-readme-stats)
 
 
 <!-- - 🔭 I’m currently working on ...
